@@ -1,6 +1,6 @@
 # Hola, soy Francisco López G. 👋
 
-![Banner](https://raw.githubusercontent.com/tuusuario/tuusuario/main/banner.png)
+![Banner](https://raw.githubusercontent.com/FranciscoLGM/FranciscoLGM/main/banner.png)
 
 Desarrollador Full Stack apasionado por el desarrollo de soluciones innovadoras y eficientes que resuelvan problemas reales para los usuarios. Con sólida experiencia en una variedad de tecnologías, incluyendo JavaScript (React, Angular, Vue.js), Node.js (Express.js), Java (Spring Boot), y Python (Django). Mi objetivo es seguir creciendo y adquiriendo nuevas habilidades en el campo del desarrollo de software, con un enfoque en la creación de aplicaciones escalables, seguras y fáciles de usar.
 
