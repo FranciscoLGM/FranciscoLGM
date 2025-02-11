@@ -41,9 +41,9 @@ Desarrollador Full Stack apasionado por el desarrollo de soluciones innovadoras 
 
 ## 📂 Proyectos destacados
 
-- **[Proyecto 1](https://github.com/tuusuario/proyecto1)**: Descripción breve del proyecto.
-- **[Proyecto 2](https://github.com/tuusuario/proyecto2)**: Descripción breve del proyecto.
-- **[Proyecto 3](https://github.com/tuusuario/proyecto3)**: Descripción breve del proyecto.
+- **[Películas YTS](https://github.com/FranciscoLGM/Peliculas-YTS.git)**: Aplicación web que permite buscar y descargar torrents de películas.
+- **[Portfolio Web](https://github.com/FranciscoLGM/portfolio-web-nextjs)**: Portfolio Web desarrollado en Next.js.
+- **[Chatbot](https://github.com/FranciscoLGM/Chatbot)**: Chatbot para un restaurante de sushi, el cual permite gestionar pedidos, mostrar el menú y responder a preguntas frecuentes de los usuarios.
 
 ## 📊 Estadísticas de GitHub
 
