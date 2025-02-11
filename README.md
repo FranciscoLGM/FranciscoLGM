@@ -6,13 +6,24 @@ Desarrollador Full Stack apasionado por el desarrollo de soluciones innovadoras 
 
 ## 🛠️ Tecnologías que uso
 
+### **Frontend**:  
+![HTML](https://img.shields.io/badge/HTML-E34F26?logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS-1572B6?logo=css3&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?logo=bootstrap&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?logo=tailwind-css&logoColor=white)
+![MUI](https://img.shields.io/badge/MUI-007FFF?logo=mui&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black)
 ![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black)
 ![Angular](https://img.shields.io/badge/-Angular-DD0031?logo=angular&logoColor=white)
+![Salesforce](https://img.shields.io/badge/Salesforce-00A1E0?logo=salesforce&logoColor=white)
+### **Backend**:  
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white)
 ![Express.js](https://img.shields.io/badge/-Express.js-000000?logo=express&logoColor=white)
+![Salesforce](https://img.shields.io/badge/Salesforce-00A1E0?logo=salesforce&logoColor=white)
+### **Bases de Datos**:  
 ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=white)
+### **Herramientas**:  
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white)
@@ -41,8 +52,8 @@ Desarrollador Full Stack apasionado por el desarrollo de soluciones innovadoras 
 
 ## 📫 Contáctame
 
-- 📧 Email: flopezg89@gmail.com
 - 💼 LinkedIn: [Francisco López G.](https://linkedin.com/in/francisco-lopez-garciamayorga)
+- 📧 Email: flopezg89@gmail.com
 - 🌐 Portafolio: [franciscolgm.vercel.app](https://franciscolgm.vercel.app)
 
 ---
