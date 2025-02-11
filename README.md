@@ -1,4 +1,4 @@
-# Hola, soy Francisco López G. 👋
+# Hola, soy Francisco 👋
 
 ![Banner](https://raw.githubusercontent.com/FranciscoLGM/FranciscoLGM/main/banner.png)
 
